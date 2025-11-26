@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 skoda ze nesnezi
-=======
-moja oblubena farba je červená
->>>>>>> origin/main
