@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-moj oblubeny jazyk je phyton
-=======
 wta 22 je pomaly ukončená
->>>>>>> origin/main
