@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Nebavil ma manazment testovania vo WTA
+=======
+skoda ze nesnezi
+>>>>>>> origin/main
