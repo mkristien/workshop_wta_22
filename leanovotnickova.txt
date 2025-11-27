@@ -3,3 +3,5 @@ lea
 =======
 mnauky
 >>>>>>> origin/main
+
+upravujem zasee
