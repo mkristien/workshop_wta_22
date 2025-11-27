@@ -1,0 +1,10 @@
+* zoznámili sme sa s prostredím Github.com a GitKraken
+* v PC sme si vytvorili priečinok, v kt. sme následne pracovali
+* spustili sme repozitár: Git Repository -> 
+-> ikona priečinka naľavo hore 
+-> Clone (alebo Init) 
+-> cez Browse (vyhľadám môj priečinok) 
+-> Create repository
+-> Vytvorenie súboru .git (v mojom priečinku (projekte))
+* učili sme sa pridať súbor
+* snažili sme sa vzriešiť konflikty
