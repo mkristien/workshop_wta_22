@@ -1,1 +1,0 @@
-Vedieť používať GitHub a GitKraken bez neustáleho vyskakovania chybových hlášok
