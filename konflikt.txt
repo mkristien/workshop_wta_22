@@ -1,1 +1,23 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+moj oblubeny jazyk je francúzsky
+=======
+Git 26.11.2025
+
+>>>>>>> origin/main
+=======
 wta 22 je pomaly ukončená
+>>>>>>> origin/main
+=======
+wta 22 je pomaly ukončená
+>>>>>>> origin/main
+=======
+GitKraken, GitHub 26.11.2025
+
+
+pekný večer prajem :-)
+moj oblubeny jazyk je python
+wta 22 je pomaly ukončená
+>>>>>>> origin/main
