@@ -1,1 +1,5 @@
-lea novotnickova
+<<<<<<< HEAD
+lea 
+=======
+mnauky
+>>>>>>> origin/main
