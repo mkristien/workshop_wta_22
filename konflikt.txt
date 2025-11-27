@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+moj oblubeny jazyk je nemecký
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -20,4 +23,5 @@ GitKraken, GitHub 26.11.2025
 pekný večer prajem :-)
 moj oblubeny jazyk je python
 wta 22 je pomaly ukončená
+>>>>>>> origin/main
 >>>>>>> origin/main
