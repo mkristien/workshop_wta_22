@@ -1,0 +1,1 @@
+Postupne sa učíme pracovať s GitHub a GitKraken, push, pull, branches..
