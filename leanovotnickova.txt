@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-lea 
-=======
-mnauky
->>>>>>> origin/main
+lea
